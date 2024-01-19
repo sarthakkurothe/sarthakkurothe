@@ -78,7 +78,7 @@
 
 -  🌱 I’m currently learning more in React as a Framework. I have engaged myself in projects in the domain of MERN Stack. You can find my work [here](https://github.com/sarthakkurothe?tab=repositories).
 
--  💬 Ask me about Firebase, C++, Javascript,, HTML, CSS OOSP, DBMS , OS, Data Structures & Algorithms.
+-  💬 Ask me about React, Next, Firebase, C++, Javascript,, HTML, CSS OOSP, DBMS , OS, Data Structures & Algorithms.
 
 -  😄 Pronouns: He/His
 
