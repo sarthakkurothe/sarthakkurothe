@@ -18,7 +18,7 @@
 * I am currently in pre-final year of my undergraduation from [JUIT, Solan](https://www.juit.ac.in/).
 * I am pursuing BTech in Computer Science & Engineering.
 * I am also building many projects related to web development which includes both frontend and backend framework.
-* I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in C++.
+* I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in C++ and Python3.
 
 ***
 **⚙️ &nbsp;GitHub Analytics**
