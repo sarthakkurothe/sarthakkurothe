@@ -17,7 +17,7 @@
 
 * I am currently in pre-final year of my undergraduation from [JUIT, Solan](https://www.juit.ac.in/).
 * I am pursuing BTech in Computer Science & Engineering.
-* I am also building many projects related to web development which includes both frontend and backend framework.
+* I am also building many projects related to web development which includes both frontend and backend framework and learning various algorithms on machine learning to build projects.
 * I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in C++ and Python3.
 
 ***
@@ -76,9 +76,9 @@
 
 -  🔭 I’m currently building frontend and backend framework of my project.
 
--  🌱 I’m currently learning more in React as a Framework. I have engaged myself in projects in the domain of MERN Stack. You can find my work [here](https://github.com/sarthakkurothe?tab=repositories).
+-  🌱 I’m currently learning more in frontend as a Framework. I have engaged myself in projects in the domain of MERN Stack and simultaneously also exploring domain of machine learning. You can find my work [here](https://github.com/sarthakkurothe?tab=repositories).
 
--  💬 Ask me about React, Next, Firebase, C++, Javascript,, HTML, CSS OOSP, DBMS , OS, Data Structures & Algorithms.
+-  💬 Ask me about React, Redux, Next.js, Express, Nodejs, tailwind CSS, Javascript, Vercel, Git, Netlify, Data Structures & Algorithms.
 
 -  😄 Pronouns: He/His
 
