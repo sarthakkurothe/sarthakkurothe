@@ -74,19 +74,17 @@
   ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ***
 
--  🔭 I’m currently building frontend and backend framework of my project.
+-  🔭  I am currently developing the frontend and backend framework for my project.
 
--  🌱 I’m currently learning more in frontend as a Framework. I have engaged myself in projects in the domain of MERN Stack and simultaneously also exploring domain of machine learning. You can find my work [here](https://github.com/sarthakkurothe?tab=repositories).
+-  🌱  I am currently focused on expanding my knowledge in frontend frameworks. I am actively involved in projects using the MERN Stack, while also exploring the domain of machine learning. You can explore my work [here](https://github.com/sarthakkurothe?tab=repositories).
 
--  💬 Ask me about React, Redux, Next.js, Express, Nodejs, tailwind CSS, Javascript, Vercel, Git, Netlify, Data Structures & Algorithms.
+-  💬  Feel free to ask me about React, Redux, Next.js, Express, Node.js, Tailwind CSS, JavaScript, Vercel, Git, Netlify, Data Structures, and Algorithms.
 
 -  😄 Pronouns: He/His
 
