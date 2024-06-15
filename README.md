@@ -1,4 +1,4 @@
-<p align="center"> <h1 align="center"> Hello, I am Sarthak Kurothe <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<p align="center"> <h1 align="center"> Hey there, I am Sarthak Kurothe <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /></h1> </p>
@@ -15,9 +15,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarthakkurothe&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-* I am currently in the pre-final year of my undergraduate studies at [JUIT, Solan](https://www.juit.ac.in/).
-* I am pursuing a BTech in Computer Science & Engineering.
-* Additionally, I am actively engaged in building numerous projects related to web development, encompassing both frontend and backend frameworks, while also learning various machine learning algorithms for 
+* I am currently in the final year of my undergraduate studies at [Jaypee University of Information Technology, Solan](https://www.juit.ac.in/).
+* I am pursuing BTech in Computer Science & Engineering.
+* Additionally, I am actively engaged in building numerous projects related to web development encompassing both frontend and backend frameworks, while also learning various machine learning algorithms for 
   project development.
 * I maintain repositories dedicated to Problem Solving, with solutions spanning different domains of competitive coding, primarily in C++ and Python3.
 
@@ -80,9 +80,9 @@
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ***
 
--  🔭  I am currently developing the frontend and backend framework for my project.
+-  🔭  I am currently expanding my knowledge in development frameworks while simultaneuosly preparing for various assignments that I get for internships.
 
--  🌱  I am currently focused on expanding my knowledge in frontend frameworks. I am actively involved in projects using the MERN Stack, while also exploring the domain of machine learning. You can explore my work [here](https://github.com/sarthakkurothe?tab=repositories).
+-  🌱  I am currently focused on expanding my knowledge in development frameworks. I am actively involved in projects using the MERN Stack, while also exploring the domain of machine learning. You can explore my work [here](https://sarthak-kurothe.vercel.app/).
 
 -  💬  Feel free to ask me about React, Redux, Next.js, Express, Node.js, Tailwind CSS, JavaScript, Vercel, Git, Netlify, Data Structures, and Algorithms.
 
